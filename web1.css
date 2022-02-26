@@ -1,0 +1,30 @@
+.Main
+{
+    background-image: url(/assets/1.jpg);
+    background-position: 100%;
+    filter: brightness(70%) saturate(140%);
+    justify-content: center;
+}
+.Head
+{
+    font-size: 50;
+    text-align: center;
+    padding-top: 20;
+    padding-bottom: 50;
+}
+.Form
+{
+    
+    align-self: center;
+    padding-top: 15;
+    /* padding-left: 375; */
+    /* text-align: center; */
+    position: absolute; /* Position the background text */
+  /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  /* width: 50%; Full width */
+  
+}
+
